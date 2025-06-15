@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\simon.buryan\\documents\\x\\dotnet_study\\.netprojectblog\\bloggie\\bloggie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\simon.buryan\\documents\\x\\dotnet_study\\.netprojectblog\\bloggie\\bloggie.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\simon.buryan\\documents\\x\\dotnet_study\\.netprojectblog\\bloggie\\bloggie.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\simon.buryan\\documents\\x\\dotnet_study\\.netprojectblog\\bloggie\\bloggie.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\simon.buryan\\documents\\x\\dotnet_study\\.netprojectblog\\bloggie\\bloggie.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\simon.buryan\\documents\\x\\dotnet_study\\.netprojectblog\\bloggie\\bloggie.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\simon.buryan\\documents\\x\\dotnet_study\\.netprojectblog\\bloggie\\bloggie.web\\bloggie.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DC9B1CF-6812-4C31-A76F-A4AC1AF5BC3C}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\bloggie.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Bloggie.Web\\appsettings.json",
+              "ToolTip": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\appsettings.json",
+              "RelativeToolTip": "Bloggie.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T16:34:22.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bloggie.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T16:34:11.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Bloggie.Web\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-02T16:34:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Bloggie.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:31:07.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bloggie.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:30:51.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Properties\\launchSettings.json",
+              "ToolTip": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Bloggie.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T15:47:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bloggie.Web",
+              "DocumentMoniker": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Bloggie.Web.csproj",
+              "ToolTip": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+              "RelativeToolTip": "Bloggie.Web\\Bloggie.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T15:45:48.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
