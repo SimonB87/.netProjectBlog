@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj": {}
+    "C:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj": {}
   },
   "projects": {
-    "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj": {
+    "C:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+        "projectUniqueName": "C:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
         "projectName": "Bloggie.Web",
-        "projectPath": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+        "projectPath": "C:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
         "packagesPath": "C:\\Users\\simon.buryan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\obj\\",
+        "outputPath": "C:\\Users\\simon.buryan\\Documents\\x\\dotnet_study\\.netProjectBlog\\Bloggie\\Bloggie.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon.buryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
